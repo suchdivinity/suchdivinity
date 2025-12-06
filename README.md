@@ -1,7 +1,7 @@
 <p align="center">
   <span style="display:inline-block; max-width:440px; font-size:1.06em; line-height:1.5;">
-    hey there — this is my github repo ♡<br>
-    <i>i build & break things — small experiments, half-broken ideas,  
+    hey there this is my github repo ♡<br>
+    <i>what you'll find here is basically small experiments, halfbroken ideas,  
     and code that sometimes works better than expected.</i>
   </span>
 </p>
