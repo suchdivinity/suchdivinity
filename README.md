@@ -31,5 +31,5 @@
 
 ##
 <p align="center">
-  <sub>learning, breaking, rebuilding</sub>
+  <sub><i>making & breaking stuffs :3</i></sub>
 </p>
