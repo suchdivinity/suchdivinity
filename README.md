@@ -1,8 +1,8 @@
 <div align="center">
-<p align="center" style="color: #bd93f9; max-width: 500px; line-height: 1.6;">
+<p align="center" style="color: #13e8fa; max-width: 500px; line-height: 1.6;">
   <samp>
-    hey there. welcome to the repo.<br>
-    Here you'll find small experiments, half-broken ideas and code that sumtimes works better than expected.<br>
+    <b>hey there.</b> welcome to my <span style="color: #f70776;">git profile?</span><br>
+    Here you'll find <span style="color: #c89b3c;"><i>smol experiments</i></span>, half-broken ideas, and code that <span style="color: #f70776;"><b>s̶u̶m̶t̶i̶m̶e̶s̶</b></span> works better than expected.<br>
   </samp>
 </p>
 
@@ -29,7 +29,7 @@
 </p>
 
 <samp>
-  <i>tinker // bell</i>
+  <i>// jinxed</i>
 </samp>
 <br>
 
